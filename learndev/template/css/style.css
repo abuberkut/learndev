@@ -1,0 +1,24 @@
+/*-----HEADER-----*/
+/*     LOGO     */
+.logo-img{
+
+}
+/*     LOGO END     */
+
+/*     MENU     */
+
+#sign{
+    cursor: pointer;
+}
+.menu-caption,
+.sign-caption{
+    text-transform: uppercase;
+    
+}
+.menu-caption{
+    display: inline-block;
+}
+/*     MENU END     */
+
+/*     SIGN     */
+/*     SIGN END     */
